@@ -11,3 +11,5 @@ A simple hack tool for Drift Boss.
 ```js
 fetch("https://raw.githubusercontent.com/azvvl/drifthack/main/source.js").then(r => r.text()).then(r => eval(r))
 ```
+# it does not work?!
+make sure you refresh the page after changing the values :)
