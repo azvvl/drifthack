@@ -1,8 +1,8 @@
 # drifthack
-A simple tool for Drift Boss.
+A simple hack tool for Drift Boss.
 # features?
 - custom amount of coins
-- change powerups value (car insurance, coin rush, double source)
+- change powerups value (car insurance, coin rush, double score)
 - auto-own every car
 - skip annoying tutorials
 - set custom best score
